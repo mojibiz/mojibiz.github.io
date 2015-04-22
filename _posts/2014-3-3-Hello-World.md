@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: 中国語の首根っこを掴まえる
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+<a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="〈人名〉ゴルバチョフ">戈尔巴乔夫</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="時代 \ 人生の一時期">时代</a> ，<a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="ソ連">苏联</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="～であるだけでなく">不仅</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="進行する．進展する．進める \ 前進する">进行</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="*le \ ～した \ *liao3 \ 完結する．終わる">了</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="最大の">最大</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="規模">规模</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="*de \ ～の \ *di2 \ 確かに．本当に〈関連〉[[的确]] \ 手で持つ（広東語） \ *di4 \ まと \ ～している（雲南語） \ ～した（雲南語）">的</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="冤罪を被った者の名誉を回復する">平反</a> ，<a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="～も．～もまた \ ～なり">也</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="～に対して．～について \ 〈量〉対になったもの \ 正しい．間違いない \ ～に面する．向き合う．相対する \ 適合する．ぴったり合う \ 照らし合わせる．つきあわせる．調整する">对</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="〈人名〉スターリン">斯大林</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="時代 \ 人生の一時期">时代</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="*de \ ～の \ *di2 \ 確かに．本当に〈関連〉[[的确]] \ 手で持つ（広東語） \ *di4 \ まと \ ～している（雲南語） \ ～した（雲南語）">的</a> <a href="#" rel="tooltip" data-toggle="tooltip" data-placement="bottom" title="政治">政治</a>
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
